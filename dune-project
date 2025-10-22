@@ -18,7 +18,7 @@
 (package
  (name rich-string)
  (synopsis
-  "rich-string provides a generic way to enrich the built-in string type with new capabilities.")
+  "rich-string provides a generic way to enrich the built-in string type with new capabilities")
  (description
   "rich-string provides a generic way to enrich the built-in string type with new capabilities.")
  (depends
