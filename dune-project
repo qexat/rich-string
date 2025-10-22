@@ -17,8 +17,10 @@
 
 (package
  (name rich-string)
- (synopsis "A short synopsis")
- (description "A longer description")
+ (synopsis
+  "rich-string provides a generic way to enrich the built-in string type with new capabilities.")
+ (description
+  "rich-string provides a generic way to enrich the built-in string type with new capabilities.")
  (depends
   (ocaml
    (>= 5.1))
