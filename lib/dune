@@ -1,0 +1,3 @@
+(library
+ (public_name rich-string)
+ (name rich_string))
