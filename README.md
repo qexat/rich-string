@@ -1,4 +1,4 @@
-# Rich String
+# rich-string
 
 `rich-string` provides a generic way to enrich the built-in `string` type with new capabilities.
 
