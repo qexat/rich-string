@@ -47,7 +47,7 @@ As a library, `rich-string` is tested from the ground-up, with a focus on checki
 
 Add `rich-string` to your `dune-project`, in the `depends` section:
 
-```dune
+```dune-project
 (package
   (name your-package)
   (depends
